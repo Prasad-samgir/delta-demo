@@ -1,2 +1,2 @@
 # delta-demo
-this is demo for github cls
+this is demo for github cls.
